@@ -1,0 +1,12 @@
+Json verificator
+
+http://jsonlint.com/
+
+Resume Link
+
+https://github.com/JPGITHUB1519/frontend-nanodegree-resume.git
+
+
+CSS Properties
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
